@@ -1,1 +1,30 @@
-html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vis 101 homework</title>
+    <meta charset="Windows-1251">
+</head>
+<body style="font-family: open sans">
+    <h1>First VIS101 Homework</h1>
+<div class="frame">
+    <h2>Quote of the Day</h2>
+    <div class="quote_block">
+        <p id="quote">All successful men and women are big dreamers. They imagine what their future could be, ideal in every respect, and then they work every day toward their distant vision, that goal or purpose.” – Brian Tracy</p>
+    </div>
+</div>
+<div class="button_block">
+    <button id="switch_button" class="button switch_button" name="switch_button">Change Quote of the Day</button>
+    <button id="sort_button" class="button" name="sort_button">Sort by authors</button>
+    <label class="needless_label" for="select">Author</label>
+    <select id="select" class="select" name="select" size="1">
+        <option id="random_option" selected>Random author</option>
+    </select>
+</div>
+<div class="option_block">
+    <label for="checkbox">Use third-party sources</label>
+    <input id="checkbox" type="checkbox">
+</div>
+<script src="/dist/javascript/homework1.js"></script>
+</body>
+</html>
+
