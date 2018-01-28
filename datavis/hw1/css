@@ -1,1 +1,43 @@
-css
+h1 {
+   color: #1946ba;
+}
+
+h2 {
+    margin: 20px 10px;
+}
+
+.frame {
+    width: 90%;
+    max-width: 960px;
+    border: 1px solid #F5F5F5;
+    margin: 5px 0;
+    padding: 10px 5px;
+}
+
+.quote_block {
+    margin: 5px 5px 5px 60px;
+    padding: 0 5px;
+    border-left: 2px solid #8c8c8c;
+}
+
+button {
+    color: white;
+    padding: 5px;
+    background-color: #ec0b43;
+    margin: 10px 10px 10px 0;
+    border: none;
+    cursor: pointer;
+}
+
+.select {
+    margin: 10px 10px 10px 0;
+    padding: 5px;
+}
+
+.needless_label {
+    display: none;
+}
+
+.button_block, .option_block {
+    padding-left: 10px;
+}
