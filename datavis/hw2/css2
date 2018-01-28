@@ -1,0 +1,64 @@
+.interactive_block {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.checkboxes_block, .radio_buttons_block, .slider_block {
+    height: 30px;
+}
+
+.checkbox_block, .radio_button_block, .slider_block {
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.interactive_block_label {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.main_table td {
+    min-width: 100px;
+}
+
+.main_table, .main_table th, .main_table td {
+    border: 1px solid black;
+}
+
+tr.table_row:nth-of-type(odd) {
+    background: #eee;
+}
+
+.bar_chart rect {
+    fill: steelblue;
+}
+
+.bar_chart text {
+    font: 10px sans-serif;
+    text-anchor: end;
+}
+
+path.line {
+    stroke: steelblue;
+    stroke-width: 1;
+    fill: none;
+}
+
+.legend {
+    font-size: 16px;
+    font-weight: bold;
+    text-anchor: middle;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
