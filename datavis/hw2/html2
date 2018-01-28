@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="/dist/img/favicon.ico" type="image/x-icon">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+<div id="content_container" class="container">
+    {{ content }}
+</div>
+<nav>
+    <ul>
+        <li><a href="/homework2">Back</a></li>
+    </ul>
+</nav>
+</body>
+</html>
