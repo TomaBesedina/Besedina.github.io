@@ -2,7 +2,7 @@ export default class {
 
     constructor(name) {
         this.name = name;
-        this.address = "/datavis/hw2/" + name + ".json";
+        this.address = "https://github.com/TomaBesedina/Besedina.github.io/edit/master/datavis/hw2/" + name + ".json";
     }
 
     handle(f) {
