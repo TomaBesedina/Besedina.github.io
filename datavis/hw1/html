@@ -24,6 +24,6 @@
     <label for="checkbox">Use third-party sources</label>
     <input id="checkbox" type="checkbox">
 </div>
-<script src="/dist/javascript/homework1.js"></script>
+<script src="datavis/hw1/scrypt.js"></script>
 </body>
 </html>
