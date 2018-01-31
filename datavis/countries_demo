@@ -1,0 +1,462 @@
+{
+	"data": [
+    {
+        "name": "Angola",
+        "alpha2_code": "ao",
+        "longitude": 13.242,
+        "years": [
+            {
+                "gdp": 12650000000.0,
+                "life_expectancy": 42.0514634146341,
+                "top_partners": [
+                    {
+                        "total_export": 2036096161.9550002,
+                        "country_id": 223
+                    },
+                    {
+                        "total_export": 224173637.056,
+                        "country_id": 50
+                    },
+                    {
+                        "total_export": 158327929.5,
+                        "country_id": 16
+                    },
+                    {
+                        "total_export": 117076297.133,
+                        "country_id": 38
+                    },
+                    {
+                        "total_export": 102352390.975,
+                        "country_id": 102
+                    },
+                    {
+                        "total_export": 98906529.644,
+                        "country_id": 112
+                    },
+                    {
+                        "total_export": 95060953.24,
+                        "country_id": 64
+                    },
+                    {
+                        "total_export": 78828771.431,
+                        "country_id": 69
+                    },
+                    {
+                        "total_export": 61113059.0,
+                        "country_id": 37
+                    },
+                    {
+                        "total_export": 38838947.0,
+                        "country_id": 28
+                    }
+                ],
+                "year": 1995,
+                "population": 12104952.0
+            },
+            {
+                "gdp": 14070000000.0,
+                "life_expectancy": 42.5016341463415,
+                "top_partners": [
+                    {
+                        "total_export": 2445591288.049,
+                        "country_id": 223
+                    },
+                    {
+                        "total_export": 242311978.623,
+                        "country_id": 16
+                    },
+                    {
+                        "total_export": 209595333.478,
+                        "country_id": 38
+                    },
+                    {
+                        "total_export": 187540217.296,
+                        "country_id": 64
+                    },
+                    {
+                        "total_export": 170567076.92200002,
+                        "country_id": 102
+                    },
+                    {
+                        "total_export": 134433439.43,
+                        "country_id": 50
+                    },
+                    {
+                        "total_export": 132200000.0,
+                        "country_id": 28
+                    },
+                    {
+                        "total_export": 127273855.504,
+                        "country_id": 69
+                    },
+                    {
+                        "total_export": 104000000.0,
+                        "country_id": 34
+                    },
+                    {
+                        "total_export": 101000000.0,
+                        "country_id": 37
+                    }
+                ],
+                "year": 1996,
+                "population": 12451945.0
+            },
+            {
+                "gdp": 15180000000.0,
+                "life_expectancy": 43.0621219512195,
+                "top_partners": [
+                    {
+                        "total_export": 2506776963.7409997,
+                        "country_id": 223
+                    },
+                    {
+                        "total_export": 516340849.8,
+                        "country_id": 38
+                    },
+                    {
+                        "total_export": 282182330.98499995,
+                        "country_id": 16
+                    },
+                    {
+                        "total_export": 160041025.14599994,
+                        "country_id": 69
+                    },
+                    {
+                        "total_export": 155636619.4,
+                        "country_id": 112
+                    },
+                    {
+                        "total_export": 89391553.3,
+                        "country_id": 37
+                    },
+                    {
+                        "total_export": 80902851.28,
+                        "country_id": 64
+                    },
+                    {
+                        "total_export": 43158397.063,
+                        "country_id": 178
+                    },
+                    {
+                        "total_export": 33745757.0,
+                        "country_id": 28
+                    },
+                    {
+                        "total_export": 29094141.617999997,
+                        "country_id": 50
+                    }
+                ],
+                "year": 1997,
+                "population": 12791388.0
+            }
+        ],
+        "latitude": -8.81155,
+        "continent": "Africa"
+    },
+    {
+        "name": "Albania",
+        "alpha2_code": "al",
+        "longitude": 19.8172,
+        "years": [
+            {
+                "gdp": 5453000000.0,
+                "life_expectancy": 73.3265853658537,
+                "top_partners": [
+                    {
+                        "total_export": 177413910.46999997,
+                        "country_id": 102
+                    },
+                    {
+                        "total_export": 52562841.95599999,
+                        "country_id": 81
+                    },
+                    {
+                        "total_export": 27281921.931999996,
+                        "country_id": 50
+                    },
+                    {
+                        "total_export": 15351873.477,
+                        "country_id": 223
+                    },
+                    {
+                        "total_export": 10629747.125,
+                        "country_id": 69
+                    },
+                    {
+                        "total_export": 6640630.204,
+                        "country_id": 13
+                    },
+                    {
+                        "total_export": 4224616.29,
+                        "country_id": 16
+                    },
+                    {
+                        "total_export": 3875195.4149999996,
+                        "country_id": 162
+                    },
+                    {
+                        "total_export": 3474525.8680000002,
+                        "country_id": 142
+                    },
+                    {
+                        "total_export": 3403642.9420000003,
+                        "country_id": 53
+                    }
+                ],
+                "year": 1998,
+                "population": 3128530.0
+            },
+            {
+                "gdp": 6004000000.0,
+                "life_expectancy": 73.7933902439025,
+                "top_partners": [
+                    {
+                        "total_export": 201813291.79099995,
+                        "country_id": 102
+                    },
+                    {
+                        "total_export": 58412633.158,
+                        "country_id": 81
+                    },
+                    {
+                        "total_export": 28100397.733,
+                        "country_id": 50
+                    },
+                    {
+                        "total_export": 9437406.699,
+                        "country_id": 223
+                    },
+                    {
+                        "total_export": 7071934.134,
+                        "country_id": 13
+                    },
+                    {
+                        "total_export": 6219609.739,
+                        "country_id": 69
+                    },
+                    {
+                        "total_export": 5808970.3319999995,
+                        "country_id": 142
+                    },
+                    {
+                        "total_export": 4789836.362,
+                        "country_id": 16
+                    },
+                    {
+                        "total_export": 4709809.611,
+                        "country_id": 53
+                    },
+                    {
+                        "total_export": 3438785.322,
+                        "country_id": 238
+                    }
+                ],
+                "year": 1999,
+                "population": 3108778.0
+            },
+            {
+                "gdp": 6442000000.0,
+                "life_expectancy": 74.2720731707317,
+                "top_partners": [
+                    {
+                        "total_export": 192378701.40299994,
+                        "country_id": 102
+                    },
+                    {
+                        "total_export": 52497031.47300001,
+                        "country_id": 81
+                    },
+                    {
+                        "total_export": 25126992.733999997,
+                        "country_id": 50
+                    },
+                    {
+                        "total_export": 12962682.962000001,
+                        "country_id": 69
+                    },
+                    {
+                        "total_export": 7561740.81,
+                        "country_id": 223
+                    },
+                    {
+                        "total_export": 7345209.6,
+                        "country_id": 238
+                    },
+                    {
+                        "total_export": 4329932.9569999995,
+                        "country_id": 142
+                    },
+                    {
+                        "total_export": 3741693.769,
+                        "country_id": 13
+                    },
+                    {
+                        "total_export": 3637433.5250000004,
+                        "country_id": 53
+                    },
+                    {
+                        "total_export": 3549494.46,
+                        "country_id": 216
+                    }
+                ],
+                "year": 2000,
+                "population": 3089027.0
+            }
+        ],
+        "latitude": 41.3317,
+        "continent": "Europe"
+    },
+    {
+        "name": "United Arab Emirates",
+        "alpha2_code": "ae",
+        "longitude": 54.3705,
+        "years": [
+            {
+                "gdp": 204400000000.0,
+                "life_expectancy": 76.5986097560976,
+                "top_partners": [
+                    {
+                        "total_export": 26176105753.575012,
+                        "country_id": 105
+                    },
+                    {
+                        "total_export": 17124449834.132996,
+                        "country_id": 96
+                    },
+                    {
+                        "total_export": 14835459204.678997,
+                        "country_id": 98
+                    },
+                    {
+                        "total_export": 10938538810.225002,
+                        "country_id": 112
+                    },
+                    {
+                        "total_export": 7738798019.261001,
+                        "country_id": 209
+                    },
+                    {
+                        "total_export": 5784884727.993003,
+                        "country_id": 189
+                    },
+                    {
+                        "total_export": 5426250817.840998,
+                        "country_id": 168
+                    },
+                    {
+                        "total_export": 4948862017.517997,
+                        "country_id": 169
+                    },
+                    {
+                        "total_export": 3945634398.9979997,
+                        "country_id": 38
+                    },
+                    {
+                        "total_export": 3702303042.1300006,
+                        "country_id": 186
+                    }
+                ],
+                "year": 2010,
+                "population": 8441537.0
+            },
+            {
+                "gdp": 212400000000.0,
+                "life_expectancy": 76.781,
+                "top_partners": [
+                    {
+                        "total_export": 37910499306.53098,
+                        "country_id": 105
+                    },
+                    {
+                        "total_export": 24421449966.825993,
+                        "country_id": 96
+                    },
+                    {
+                        "total_export": 17723241219.74499,
+                        "country_id": 98
+                    },
+                    {
+                        "total_export": 13214238496.911001,
+                        "country_id": 112
+                    },
+                    {
+                        "total_export": 12919723883.032995,
+                        "country_id": 209
+                    },
+                    {
+                        "total_export": 10417554192.799006,
+                        "country_id": 189
+                    },
+                    {
+                        "total_export": 7415997750.432,
+                        "country_id": 38
+                    },
+                    {
+                        "total_export": 6368641202.721006,
+                        "country_id": 169
+                    },
+                    {
+                        "total_export": 6256129824.610001,
+                        "country_id": 168
+                    },
+                    {
+                        "total_export": 5313783856.2,
+                        "country_id": 186
+                    }
+                ],
+                "year": 2011,
+                "population": 8925096.0
+            },
+            {
+                "gdp": 221700000000.0,
+                "life_expectancy": 76.9578780487805,
+                "top_partners": [
+                    {
+                        "total_export": 38393477255.02701,
+                        "country_id": 105
+                    },
+                    {
+                        "total_export": 33463793115.904995,
+                        "country_id": 96
+                    },
+                    {
+                        "total_export": 13527397428.034994,
+                        "country_id": 189
+                    },
+                    {
+                        "total_export": 13361722120.876,
+                        "country_id": 112
+                    },
+                    {
+                        "total_export": 9544904293.006008,
+                        "country_id": 38
+                    },
+                    {
+                        "total_export": 6579045452.326999,
+                        "country_id": 169
+                    },
+                    {
+                        "total_export": 6306024455.260997,
+                        "country_id": 168
+                    },
+                    {
+                        "total_export": 3743076389.349001,
+                        "country_id": 154
+                    },
+                    {
+                        "total_export": 3589334314.9859996,
+                        "country_id": 216
+                    },
+                    {
+                        "total_export": 3349137930.203,
+                        "country_id": 88
+                    }
+                ],
+                "year": 2012,
+                "population": 9205651.0
+            }
+        ],
+        "latitude": 24.4764,
+        "continent": "Asia"
+    }]
+}
