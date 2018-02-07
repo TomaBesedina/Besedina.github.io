@@ -1,4 +1,4 @@
-import {d3} from '../../libraries'
+import {d3} from 'https://github.com/TomaBesedina/Besedina.github.io/tree/master/datavis/hw2'
 
 const MARGINS = {top: 10, bottom: 10, left: 200, right: 40};
 const WIDTH = 1200 - MARGINS["left"] - MARGINS["right"];
