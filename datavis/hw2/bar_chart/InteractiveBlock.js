@@ -1,4 +1,4 @@
-import {d3} from '../../libraries'
+import {d3} from 'https://github.com/TomaBesedina/Besedina.github.io/tree/master/datavis/hw2'
 import {RADIO_BUTTON_CONTENTS} from "./radioButtons";
 
 const INTERACTIVE_BLOCK_LABEL_ID = "interactive_block_label";
