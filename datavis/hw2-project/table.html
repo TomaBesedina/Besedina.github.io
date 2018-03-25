@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<link ref="styles.css">
+  <style type="text/css">
+   TABLE {
+    border-collapse: collapse;
+   }
+   TD, TH {
+    padding: 3px; 
+    border: 1px solid black; 
+   }
+   TH {
+    background-color:Tomato;
+   }
+  </style>
+  <body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+	<script src="https://d3js.org/d3-selection-multi.v1.min.js"></script>
+
+	<label><input type="checkbox" name="Americas" value="Americas"></input>Americas</label>
+  <label><input type="checkbox" name="Oceania" value="Oceania"></input>Oceania</label>
+  <label><input type="checkbox" name="Asia" value="Asia"></input>Asia</label>
+  <label><input type="checkbox" name="Europe" value="Europe"></input>Europe</label>
+	<label><input type="checkbox" name="Africa" value="Africa"></input>Africa</label>
+
+    <br/>
+	Group by:
+	<label><input type="radio" name="Aggregation" value="Continent">Continent</label>
+	<label><input type="radio" name="Aggregation" value="None" checked>None</label>
+	<br/>
+
+    <input type="range" name="points" min="1995" max="2012" step="1" value="0" id="slider-time" oninput=";" style="width: 350px"><label id="year"></label>
+
+	<script src="tableScript.js"></script>
+	
+  </body>
+</html>
